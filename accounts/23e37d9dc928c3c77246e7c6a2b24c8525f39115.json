@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-dynamo-295916",
+  "private_key_id": "23e37d9dc928c3c77246e7c6a2b24c8525f39115",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWimARdlT/KxW9\nBx8jcge9KLi8vSahvKknUBv9PrlkANYrHP7lrXw78HbA/cLooYTF2DhcidE7Bq/G\nU4245SfhoIF5tkVQCBEuJQ45PkMdB2NrmdYOhP0fXpB81KaheTfMC4cZgDwMFJhf\nL+8lSEYAP6jWJrLlbGMf9noPxpGuwTLI/druWN1Es3jy51/zKe5LN7WGi5BLSSpB\nLehg9tz2/iCFHtlUbFv8h4Ge5dnuLvZccAwDZnqmjKZZhlEY5qXM9ZsmmGH4nNbO\n6NGMfGicIujXVtNv5EAfcONNFJl7wtz9w8SMcEfHbej0tzDlINJJw9urzaRqMwtr\n35s4MgrhAgMBAAECggEADf6aw6jXZIm38kuroVFH5fPpEQ65nWVEF3dnS/6ycy6G\nyesrSWomp3ZJGM+0zh3zHkC7dHXc+x+1iZdbsErqbhJdP8Y/ATh1fnAWXG+OSy93\nMcaoKuxL4qb1f98TO4c/t4Ss/GHcCOGzCsqCrAjp4AxHBCkkFEkcsjIOxkaqrB55\nixK2r2P79hbEOCLFXY6Vox4cNkGiylUhlWXQwNdJTTe0VNXD+j5oBy6ltAUVDs3v\nCvbWS6ikcIaAKL1Csg4ebaRrRO7CUYyszST+yLH1IDpbt+l4gROXUJroGT2JIz+T\nzvjiUxgePUoYfShsawcdFitUrKaVasgjPuG9OU2f/QKBgQD0C6iWPO/a14N/CqK2\no0Oi5JAqQ+63F6BX8F3EViSuU5T3hXMjnCnhdQKyiZWaq0GuVVhvrOMkFTFmTMDu\nXNbg+dlpxVwfo27B2kR1bqZymyXWrHPR6Y7XI5L8GDrmO4e0GBzqo+HiXvKjfKbQ\n06YGXmNU15hLw2+1f6eeist8mwKBgQDhDLj88mcxIYL0pLiBSmSyLZne9Gof7PE5\npGLJCmZDr924NOalXwLOgpFkJu6SvsP4oP+zqaJpXGxlSGOwvknTkfduFIYFHSE+\n8ceing+UQ31X+Zd38MzLHtNC/5ON9OpQcmUznVEOUFQfAkd+OOkndrMstMEb98+6\n0xGYfZAoMwKBgFIH/TIK56DK4lN4srrrZBfD9kWOshXvJiGJFSuivQ+v3pnYzJwC\nqP00xKRYpOXpfNlprKFVHsCJMyKs2AkHQd87fH4WLeIgoGEeyfYjLGXHis9/Bitf\n83iTZ5u/VUUAa5v4oveoAIyD19FmW/hDvEHVxlPFaFbHKax7bU9YXg/TAoGBAJlc\n5y+RLVtg3/JB0m5hOQ/nXYV/gFazTIwghyVDzf7weSMQAeHORoZemh/rHAeqsrfb\nV4Wi40fzsPawhycp9fuU7E369H3FpSNU9tvN5QX/nAp4z4zv70+4ePWeX3qM3aTm\n4Cp1WYhsm3bqQbg1pkW7cUzU/QhHLyu8rLADWVrbAoGAZIl/6J+Vh7lxmrsmG4oO\ns/RUGG8VI6E1Y8WUSZAA/zp9QBsblqJ7GnV7rwXszbHR4jCeUDaziBkxOPx7u2pq\nfNAxCoWDxpI1m89hrGorMDmore1FY+GD6Hl3kjkNlwQMn2cn+u354yBV9LMRn45P\numWHF2pL6m0qk1izECQ9tVY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "user098@fluted-dynamo-295916.iam.gserviceaccount.com",
+  "client_id": "115640267569380435157",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/user098%40fluted-dynamo-295916.iam.gserviceaccount.com"
+}
